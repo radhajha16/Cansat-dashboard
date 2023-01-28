@@ -17,6 +17,11 @@
   ```
   cd Cansat-dashboard/
   ```
+- Run below commands to get the react code.
+  ```
+  git fetch
+  git checkout ravikant
+  ```
 - Run following command to install all the dependencies.
   ```
   npm i
