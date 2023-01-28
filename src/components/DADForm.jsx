@@ -1,6 +1,5 @@
 import { UploadFileRounded } from "@mui/icons-material";
 import { Button } from "@mui/material";
-import _ from "lodash";
 import React from "react";
 import { FileUploader } from "react-drag-drop-files";
 

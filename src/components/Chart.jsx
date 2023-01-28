@@ -1,4 +1,3 @@
-import { Paper } from "@mui/material";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -9,8 +8,6 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import faker from "faker";
-import React, { useEffect, useRef, useState } from "react";
 import { Line } from "react-chartjs-2";
 
 ChartJS.register(
